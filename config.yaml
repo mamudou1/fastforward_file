@@ -1,0 +1,4 @@
+folders:
+  - ./test_folder1
+  - ./test_folder2
+backup_path: ./backup
