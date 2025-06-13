@@ -127,7 +127,7 @@ def sync_files(monitored_folders, backup_root):
             # New file
             if file_str not in db_records:
                 backup_and_record_file(file, common_root, backup_root, conn)
-                log.info(f"Backed up file: {file} → {Path(backup_root) / get_relative_path(file, common_root)}")
+                log.info(f"Backed up file: {file} -> {Path(backup_root) / get_relative_path(file, common_root)}")
 
             # Modified file
             elif db_records[file_str]["hash"] != file_hash:
