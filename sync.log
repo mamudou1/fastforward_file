@@ -1,0 +1,28 @@
+2025-06-13 11:21:02,785 - INFO - Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder1\071.png → backup\test_folder1\071.png
+2025-06-13 11:21:02,815 - INFO - Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder1\072.png → backup\test_folder1\072.png
+2025-06-13 11:21:02,843 - INFO - Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder2\071.png → backup\test_folder2\071.png
+2025-06-13 11:21:02,872 - INFO - Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder2\072.png → backup\test_folder2\072.png
+2025-06-13 11:21:02,911 - INFO - Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder2\SEO TEST.docx → backup\test_folder2\SEO TEST.docx
+2025-06-13 11:21:02,919 - INFO - File deleted or moved: test_folder1\071.png
+2025-06-13 11:21:02,921 - INFO - Removed backup: backup\test_folder1\071.png
+2025-06-13 11:21:02,923 - INFO - File deleted or moved: test_folder1\072.png
+2025-06-13 11:21:02,925 - INFO - Removed backup: backup\test_folder1\072.png
+2025-06-13 11:21:02,925 - INFO - File deleted or moved: test_folder2\071.png
+2025-06-13 11:21:02,926 - INFO - Removed backup: backup\test_folder2\071.png
+2025-06-13 11:21:02,926 - INFO - File deleted or moved: test_folder2\072.png
+2025-06-13 11:21:02,927 - INFO - Removed backup: backup\test_folder2\072.png
+2025-06-13 11:21:02,927 - INFO - File deleted or moved: test_folder2\SEO TEST.docx
+2025-06-13 11:21:02,928 - INFO - Removed backup: backup\test_folder2\SEO TEST.docx
+2025-06-13 11:38:00,228 - INFO - Removed empty backup directory: ./backup\test_folder1
+2025-06-13 11:38:00,229 - INFO - Removed empty backup directory: ./backup\test_folder2
+2025-06-13 12:08:03,929 - INFO - Created backup folder: backup\test_folder1
+2025-06-13 12:08:03,930 - INFO - Created backup folder: backup\test_folder2
+2025-06-13 12:11:17,217 - INFO - Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder1\6.3.1_FLPConf_Options_004.png → backup\test_folder1\6.3.1_FLPConf_Options_004.png
+2025-06-13 12:11:17,238 - INFO - Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder1\6.3.1_FLPConf_Options_005.png → backup\test_folder1\6.3.1_FLPConf_Options_005.png
+2025-06-13 12:11:17,248 - INFO - Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder1\SEO TEST.docx → backup\test_folder1\SEO TEST.docx
+2025-06-13 12:11:17,272 - INFO - Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder2\6.2.1_Roles_Predefined_003.png → backup\test_folder2\6.2.1_Roles_Predefined_003.png
+2025-06-13 12:11:17,290 - INFO - Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder2\6.3.1_FLPConf_Options_001.png → backup\test_folder2\6.3.1_FLPConf_Options_001.png
+2025-06-13 12:11:17,310 - INFO - Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder2\6.3.1_FLPConf_Options_004.png → backup\test_folder2\6.3.1_FLPConf_Options_004.png
+2025-06-13 12:11:17,329 - INFO - Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder2\6.3.1_FLPConf_Options_005.png → backup\test_folder2\6.3.1_FLPConf_Options_005.png
+2025-06-13 12:11:17,336 - INFO - File or folder deleted/moved: C:\Users\USER\Desktop\git\fastforward_file\test_folder2\071.png
+2025-06-13 12:11:17,336 - WARNING - Backup already missing: backup\test_folder2\071.png

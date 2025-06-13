@@ -2,3 +2,5 @@ folders:
   - ./test_folder1
   - ./test_folder2
 backup_path: ./backup
+log_level: INFO     # Options: DEBUG, INFO, WARNING, ERROR, CRITICAL
+log_file: sync.log
