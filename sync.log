@@ -26,3 +26,15 @@
 2025-06-13 12:11:17,329 - INFO - Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder2\6.3.1_FLPConf_Options_005.png → backup\test_folder2\6.3.1_FLPConf_Options_005.png
 2025-06-13 12:11:17,336 - INFO - File or folder deleted/moved: C:\Users\USER\Desktop\git\fastforward_file\test_folder2\071.png
 2025-06-13 12:11:17,336 - WARNING - Backup already missing: backup\test_folder2\071.png
+[2025-Jun-16 11:27:43  main        : 142  INFO    ]  File or folder deleted/moved: C:\Users\USER\Desktop\git\fastforward_file\test_folder2\6.3.1_FLPConf_Options_004.png
+[2025-Jun-16 11:27:43  main        : 146  INFO    ]  Removed backup: backup\test_folder2\6.3.1_FLPConf_Options_004.png
+[2025-Jun-16 11:37:13  main        : 137  INFO    ]  Created backup folder: backup\test_folder1\hh
+[2025-Jun-16 11:37:13  main        :  86  INFO    ]  Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder2\6.2.1_Roles_Predefined_003 - Copy.png -> backup\test_folder2\6.2.1_Roles_Predefined_003 - Copy.png
+[2025-Jun-16 11:37:13  main        : 101  INFO    ]  Removed empty backup directory: ./backup\New folder
+[2025-Jun-16 11:37:59  main        :  86  INFO    ]  Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder1\hh\01RelationsInDataModels_001.png -> backup\test_folder1\hh\01RelationsInDataModels_001.png
+[2025-Jun-16 11:37:59  main        :  86  INFO    ]  Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder1\hh\01RelationsInDataModels_003.png -> backup\test_folder1\hh\01RelationsInDataModels_003.png
+[2025-Jun-16 11:37:59  main        :  86  INFO    ]  Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder1\hh\071.png -> backup\test_folder1\hh\071.png
+[2025-Jun-16 11:37:59  main        :  86  INFO    ]  Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder1\hh\072.png -> backup\test_folder1\hh\072.png
+[2025-Jun-16 11:37:59  main        :  86  INFO    ]  Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder1\hh\6.3.1_FLPConf_Options_004.png -> backup\test_folder1\hh\6.3.1_FLPConf_Options_004.png
+[2025-Jun-16 11:37:59  main        :  86  INFO    ]  Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder1\hh\6.3.1_FLPConf_Options_005.png -> backup\test_folder1\hh\6.3.1_FLPConf_Options_005.png
+[2025-Jun-16 11:38:00  main        :  86  INFO    ]  Backed up file: C:\Users\USER\Desktop\git\fastforward_file\test_folder1\hh\SEO TEST.docx -> backup\test_folder1\hh\SEO TEST.docx
